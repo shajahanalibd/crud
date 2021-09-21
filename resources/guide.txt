@@ -1,0 +1,3 @@
+1. Create a Database named "omor_crud"
+2. Import "Students" sql file.
+3. Run project :)
